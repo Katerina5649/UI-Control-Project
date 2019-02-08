@@ -1,0 +1,13 @@
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/steps/LadyPageSteps.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/navigation/UrlPattern.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/steps/elements/AbstractSteps.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/navigation/Page.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/elements/filter/FilterLadyElement.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/steps/elements/FilterLadyElementSteps.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/pages/LadyPage.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/tools/WaitTools.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/driver/DriverProvider.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/elements/Component.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/pages/AbstractPage.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/elements/ComponentObject.java
+/home/katya/MIPT/Programs/Технотрек/выпускной проект/Итоговый проект/Lady/src/main/java/ru/mail/example/navigation/PageObject.java

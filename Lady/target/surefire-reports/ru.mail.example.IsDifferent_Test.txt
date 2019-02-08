@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ru.mail.example.IsDifferent_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 17.382 s <<< FAILURE! - in ru.mail.example.IsDifferent_Test
+isDifferent(ru.mail.example.IsDifferent_Test)  Time elapsed: 17.291 s  <<< ERROR!
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at ru.mail.example.IsDifferent_Test.isDifferent(IsDifferent_Test.java:42)
+Caused by: java.lang.reflect.InvocationTargetException
+	at ru.mail.example.IsDifferent_Test.isDifferent(IsDifferent_Test.java:42)
+Caused by: java.lang.AssertionError: Компонент ru.mail.example.elements.filter.FilterLadyElement отсутствует на странице
+	at ru.mail.example.IsDifferent_Test.isDifferent(IsDifferent_Test.java:42)
+
