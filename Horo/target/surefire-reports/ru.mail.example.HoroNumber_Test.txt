@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.mail.example.HoroNumber_Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.883 s - in ru.mail.example.HoroNumber_Test
